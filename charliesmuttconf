@@ -1,0 +1,15 @@
+set imap_user = "youremail@hotmail.com"
+set imap_pass = "yourpass"
+set smtp_url = "smtop://youremail@hotmail.com@smtop.live.com:587/"
+set smtp_pass = "passwordhere
+set from = "your email"
+set real name = "your name"
+ssl_force_tls = yes 
+editor='echo \$vim' 
+set folder = "imaps://imap-mail.outlook.com:993"
+set spoolfile = "+INBOX"
+set imap_check_subscribed
+set hostname = hotmail.com
+set mail_check = 25
+set sort_aux = 'reverse-last-date-recived"
+color normal black default 
