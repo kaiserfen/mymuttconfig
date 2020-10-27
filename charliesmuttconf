@@ -12,7 +12,8 @@ set imap_check_subscribed
 set hostname = hotmail.com
 set mail_check = 25
 set sort_aux = 'reverse-last-date-recived"
-#color normal black default 
+#color normal black default
+set mailcap_path 	= ~/.mutt/mailcap
 $HOME/.mutt/colours - Dark background.
 
 color  normal     brightwhite  black
