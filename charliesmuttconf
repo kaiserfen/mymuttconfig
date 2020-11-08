@@ -16,16 +16,16 @@ set sort_aux = 'reverse-last-date-recived"
 set mailcap_path 	= ~/.mutt/mailcap
 $HOME/.mutt/colours - Dark background.
 
-color  normal     brightwhite  black
-color  attachment brightyellow black
-color  hdrdefault brightcyan   black
+color  normal     green        default
+color  attachment brightyellow default
+color  hdrdefault white        default
 color  indicator  black        cyan
-color  markers    brightred    black
-color  quoted     brightgreen  black
-color  signature  cyan         black
-color  status     brightgreen  blue
-color  tilde      blue         black
-color  tree       red          black
+color  markers    brightred    default
+color  quoted     brightgreen  default
+color  signature  cyan         default
+color  status     brightgreen  default
+color  tilde      blue         default
+color  tree       red          default
 
 color  index      brightcyan   black ~D
 color  index      brightcyan   black ~T
