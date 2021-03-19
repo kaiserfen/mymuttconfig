@@ -43,3 +43,6 @@ set folder="~/Mail"
 set record="~/Mail/sent"
 set postponed="~Mail/Drafts"
 set mbox_type=Mail
+# Mail cache, downloaders messages, use ad irectory like eg /home/mail/ etc
+set message_cachedir = "/path/to/folder" 
+set header_cache = "/path/to/folder"
